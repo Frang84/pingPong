@@ -1,0 +1,9 @@
+body{
+    background-image: url(backgroundjpg.jpg);
+}
+#gameContainer{
+    text-align: center;
+}
+#gameBoard{
+    border: 3px solid white;
+}
